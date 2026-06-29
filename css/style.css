@@ -229,3 +229,42 @@ footer {
     height: 150px;
     width: 150px;
 }
+.d-box{
+    text-align: center;
+    width: 100%;
+}
+.d-logo{
+    margin-top: 50px;
+
+}
+.logo-item{
+    display: inline-block;
+    margin: 10px;
+    vertical-align: middle;
+    margin:30px;
+
+}
+.e-box{
+    margin-top: 50px;
+    text-align: center;
+
+}
+
+.text-box,
+.img-box {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.text-box {
+    width: 65%;
+    text-align: left;
+}
+.img-box {
+    
+    text-align: center;
+}
+.e-box img{
+    height: 250px;
+    width: 250px;
+}
